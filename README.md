@@ -161,4 +161,7 @@ Customer\_Churn\_Analytics/
 ├── churn\_by\_senior\_citizen.png
 
 └── churn\_by\_tenure\_group.png
+### Dashboard Preview
+
+![Customer Churn Analytics Dashboard](dashboard_preview.png)
 
