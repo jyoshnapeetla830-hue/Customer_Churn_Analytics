@@ -165,3 +165,31 @@ Customer\_Churn\_Analytics/
 
 ![Customer Churn Analytics Dashboard](dashboard_preview.png)
 
+## Business Insights & Recommendations
+
+### Key Business Insights
+
+1. **Month-to-month customers are at the highest risk of churn**
+   - Churn rate: 42.71%
+   - Customers with longer contracts show significantly lower churn.
+
+2. **New customers are more likely to churn**
+   - Customers with 0–12 months tenure have a 47.68% churn rate.
+   - Churn decreases as customer tenure increases.
+
+3. **Electronic check customers have the highest churn**
+   - Churn rate: 45.29%
+   - This segment requires closer retention analysis.
+
+4. **Fiber optic customers show high churn**
+   - Churn rate: 41.89%
+   - Service quality, pricing, or customer expectations may need further investigation.
+
+### Recommendations
+
+- Encourage month-to-month customers to move to one-year or two-year contracts.
+- Create onboarding and retention programs for customers in their first 12 months.
+- Investigate the reasons for high churn among electronic check customers.
+- Review pricing and service experience for fiber optic customers.
+- Offer targeted retention discounts or loyalty benefits to high-risk customers.
+
